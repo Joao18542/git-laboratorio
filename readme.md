@@ -5,3 +5,5 @@ Primeiro projeto estudando Git.
 alteração feita na main
 
 Alteração feita diretamente no GitHub.
+
+Alteração feit localmente
